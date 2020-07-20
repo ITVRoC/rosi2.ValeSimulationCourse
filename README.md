@@ -57,7 +57,7 @@ The keyboard ouput will be on `data[0]`.
 - 121: Y button
 
 # `data[1]` variable correspondence:
-For target cartesian control we will sometimes use shift button.Its output will be on `data[1]` and for in some cases `data[0]` will be modified
+For target cartesian control we will sometimes use shift button.Its output will be on `data[1]`.In some cases `data[0]` will be modified
 
 - 2: shift button pressed
 - 2010,2: shift + left
