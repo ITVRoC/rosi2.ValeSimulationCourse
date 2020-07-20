@@ -39,6 +39,7 @@ buttons:
 ## `data` variable correspondence:
 
 The keyboard ouput will be on `data[0]`.
+For target cartesian control we will use shift button.Its output will be on `data[1]` and its value is equal 2.
 
 - 2007: arrow up
 - 2008: arrow down
@@ -48,6 +49,8 @@ The keyboard ouput will be on `data[0]`.
 - 50: num pad 2
 - 52: num pad 4
 - 53: num pad 5
+
+
 
 
 
