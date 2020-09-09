@@ -1,10 +1,6 @@
 # rosi2.ValeSimulationCourse
 Simulation codes and files for Vale course.
 
-# TODO
-- melhorar a junta que une a tip com o manipulador.
-- o dummy referencia está estática quando em IK mode e o robô se movimenta.
-
 # Kinematics
 
 Skid-steer identification
